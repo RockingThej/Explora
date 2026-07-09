@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1763440804144,
+    "ref": "EXP314161",
+    "userId": null,
+    "accommodationId": "2",
+    "checkIn": "2025-11-29",
+    "checkOut": "2025-11-28",
+    "rooms": "1",
+    "fullName": "AAA",
+    "email": "xyz@gmail.com",
+    "total": 72000
+  },
+  {
+    "id": 1767881610761,
+    "ref": "EXP694892",
+    "userId": null,
+    "accommodationId": "2",
+    "checkIn": "2026-01-16",
+    "checkOut": "2026-01-14",
+    "rooms": "4",
+    "fullName": "Thej",
+    "email": "thej@gmail.com",
+    "total": 288000
+  }
+]

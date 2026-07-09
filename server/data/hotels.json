@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Hotel Lumière Paris",
+    "location": "Paris, France",
+    "description": "Located in the heart of Paris with stunning urban views. Nearby attractions include the Eiffel Tower (2.1 km), Louvre Museum (3.4 km), and Notre-Dame Cathedral (4.0 km).",
+    "image": "dest_1.jpg",
+    "pricePerNight": 55000,
+    "roomsAvailable": 6,
+    "amenities": ["Free WiFi", "City View", "Complimentary Breakfast", "24/7 Concierge", "Airport Shuttle"]
+  },
+  {
+    "id": "2",
+    "name": "Coral Blue Maldives Resort",
+    "location": "Maldives",
+    "description": "Luxurious beachfront villa offering crystal-clear waters and private relaxation. Nearby wonders include Banana Reef (1.8 km), Manta Point (3.2 km), and Maldives Victory Wreck Dive Site (5.6 km).",
+    "image": "dest_2.jpg",
+    "pricePerNight": 72000,
+    "roomsAvailable": 12,
+    "amenities": ["Private Beach Access", "Snorkeling Gear", "Infinity Pool", "Spa & Wellness Center", "Free WiFi"]
+  },
+  {
+    "id": "3",
+    "name": "Tokyo Serenity Inn",
+    "location": "Tokyo, Japan",
+    "description": "Modern Japanese-style hotel with excellent access to transit and culture. Nearby attractions: Tokyo Skytree (3.0 km), Senso-ji Temple (1.9 km), Akihabara District (2.6 km).",
+    "image": "dest_3.jpg",
+    "pricePerNight": 65000,
+    "roomsAvailable": 4,
+    "amenities": ["High-Speed WiFi", "Smart Room Controls", "Traditional Japanese Breakfast", "Rooftop Garden", "Public Transit Nearby"]
+  },
+  {
+    "id": "4",
+    "name": "Goa Beachfront Retreat",
+    "location": "Goa, India",
+    "description": "Beachfront stay perfect for sunsets, nightlife, and relaxation. Nearby hotspots: Baga Beach (1.4 km), Aguada Fort (6.8 km), Anjuna Flea Market (3.2 km).",
+    "image": "dest_4.jpg",
+    "pricePerNight": 30000,
+    "roomsAvailable": 5,
+    "amenities": ["Beach Access", "Pool Bar", "Live Music Nights", "Free Parking", "Air Conditioning"]
+  },
+  {
+    "id": "5",
+    "name": "Alpine Frost Resort",
+    "location": "Swiss Alps",
+    "description": "A serene alpine retreat surrounded by mountains and snowy landscapes. Nearby attractions include Matterhorn Glacier Paradise (8.1 km), Gornergrat Railway (5.3 km), and Zermatt Village (2.9 km).",
+    "image": "dest_5.jpg",
+    "pricePerNight": 95000,
+    "roomsAvailable": 16,
+    "amenities": ["Mountain View Rooms", "Ski Equipment Rental", "Heated Indoor Pool", "Fireplace Lounge", "Complimentary Hot Chocolate"]
+  },
+  {
+    "id": "6",
+    "name": "Manhattan Skyline Hotel",
+    "location": "New York, USA",
+    "description": "A premium hotel located in Manhattan with easy access to iconic attractions. Visit Times Square (0.9 km), Central Park (2.5 km), and the Empire State Building (1.8 km).",
+    "image": "dest_6.jpg",
+    "pricePerNight": 88000,
+    "roomsAvailable": 15,
+    "amenities": ["Skyline View", "Fitness Center", "Business Lounge", "Room Service", "Subway Access"]
+  },
+  {
+    "id": "7",
+    "name": "Golden Dunes Dubai Hotel",
+    "location": "Dubai, UAE",
+    "description": "A luxurious hotel offering modern comfort and Arabian-inspired design. Nearby attractions include Burj Khalifa (3.8 km), Dubai Mall (4.2 km), and Jumeirah Beach (7.0 km).",
+    "image": "dest_7.jpg",
+    "pricePerNight": 82000,
+    "roomsAvailable": 20,
+    "amenities": ["Luxury Spa", "Desert Safari Booking", "Infinity Pool", "Premium Buffet", "Valet Parking"]
+  },
+  {
+    "id": "8",
+    "name": "Royal Bridge London Hotel",
+    "location": "London, UK",
+    "description": "Classic British hospitality with a modern twist. Nearby icons include Big Ben (2.1 km), London Eye (2.7 km), and Buckingham Palace (1.8 km).",
+    "image": "dest_8.jpg",
+    "pricePerNight": 79000,
+    "roomsAvailable": 22,
+    "amenities": ["Traditional English Breakfast", "Heating", "Library Lounge", "Free WiFi", "Late Checkout"]
+  },
+  {
+    "id": "9",
+    "name": "Marina View Singapore Hotel",
+    "location": "Singapore",
+    "description": "A stylish stay located in the heart of the city. Close to Marina Bay Sands (1.7 km), Gardens by the Bay (2.3 km), and Orchard Road (3.8 km).",
+    "image": "dest_9.jpg",
+    "pricePerNight": 67000,
+    "roomsAvailable": 17,
+    "amenities": ["Rooftop Pool", "Free WiFi", "City Transit Card", "Fitness Studio", "Garden Terrace"]
+  },
+  {
+    "id": "10",
+    "name": "Harbour Lights Sydney Hotel",
+    "location": "Sydney, Australia",
+    "description": "Bright and airy hotel offering harbour views and coastal charm. Nearby attractions: Sydney Opera House (2.4 km), Harbour Bridge (1.8 km), Bondi Beach (7.3 km).",
+    "image": "dest_10.jpg",
+    "pricePerNight": 84000,
+    "roomsAvailable": 16,
+    "amenities": ["Harbour View", "Outdoor Pool", "Surfboard Rental", "Restaurant & Bar", "Complimentary Coffee"]
+  },
+  {
+    "id": "11",
+    "name": "Roma Heritage Suites",
+    "location": "Rome, Italy",
+    "description": "A historic hotel surrounded by Roman architecture and culture. Close to the Colosseum (1.9 km), Trevi Fountain (1.4 km), and Vatican City (4.3 km).",
+    "image": "dest_11.jpg",
+    "pricePerNight": 76000,
+    "roomsAvailable": 9,
+    "amenities": ["Heritage Interiors", "Italian Breakfast", "Guided City Tours", "Free WiFi", "Wine Tasting Sessions"]
+  },
+  {
+    "id": "12",
+    "name": "Bangkok Cityline Resort",
+    "location": "Bangkok, Thailand",
+    "description": "A vibrant and modern stay near Bangkok’s highlights. Nearby attractions include Wat Arun (4.6 km), Chatuchak Market (7.8 km), and Grand Palace (3.2 km).",
+    "image": "dest_12.jpg",
+    "pricePerNight": 48000,
+    "roomsAvailable": 19,
+    "amenities": ["Street Food Access", "Rooftop Bar", "Evening Live DJ", "Spa Services", "Free WiFi"]
+  },
+  {
+    "id": "13",
+    "name": "Pyramid View Cairo Hotel",
+    "location": "Cairo, Egypt",
+    "description": "A cultural escape overlooking ancient heritage sites. Nearby attractions: Pyramids of Giza (5.4 km), Egyptian Museum (7.0 km), Khan el-Khalili Bazaar (8.2 km).",
+    "image": "dest_13.jpg",
+    "pricePerNight": 71000,
+    "roomsAvailable": 17,
+    "amenities": ["Pyramid View", "Camel Safari Booking", "Traditional Egyptian Dinner", "Air Conditioning", "Free WiFi"]
+  },
+  {
+    "id": "14",
+    "name": "Cape Horizon Seaside Hotel",
+    "location": "Cape Town, South Africa",
+    "description": "A scenic getaway surrounded by nature and coastline. Nearby attractions include Table Mountain (4.1 km), V&A Waterfront (5.7 km), and Camps Bay Beach (6.4 km).",
+    "image": "dest_14.jpg",
+    "pricePerNight": 69000,
+    "roomsAvailable": 18,
+    "amenities": ["Mountain View", "Wine Farm Tours", "Pool Access", "Garden Area", "Free Breakfast"]
+  },
+  {
+    "id": "15",
+    "name": "Taj Royale Stay",
+    "location": "Agra, India",
+    "description": "A peaceful stay near India’s most iconic monument. Close to Taj Mahal (3.1 km), Agra Fort (5.5 km), and Mehtab Bagh (4.2 km).",
+    "image": "dest_15.jpg",
+    "pricePerNight": 26000,
+    "roomsAvailable": 28,
+    "amenities": ["Taj Mahal View", "Cultural Dance Show", "Complimentary Tea", "Rooftop Seating", "Air Conditioning"]
+  }
+]
